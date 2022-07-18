@@ -1,6 +1,6 @@
 import pymongo
 import urllib.parse
-# I need to isntall some component, pls refer to mongodb official documentation
+# I need to install some component, pls refer to mongodb official documentation
 
 
 #As i am mentioned @, I am parsing the user id and password
